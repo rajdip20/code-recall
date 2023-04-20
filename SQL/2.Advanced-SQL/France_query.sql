@@ -1,0 +1,2 @@
+/* HOW MANY TOWNS ARE THERE IN FRANCE? */
+-- SELECT COUNT(code) FROM towns;
