@@ -61,4 +61,3 @@
 /* SHOW ME THE INVENTORY FOR EACH PRODUCT */
 -- SELECT a.prod_id, a.title, b.quan_in_stock FROM products AS a
 -- INNER JOIN inventory AS b ON a.prod_id = b.prod_id;
-
