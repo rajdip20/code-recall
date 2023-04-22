@@ -201,3 +201,16 @@
 --      	()
 -- 	)
 -- order by b.dept_no
+
+/* GET THE MOST RECENT SALARY PER EMPLOYEE */
+-- SELECT  DISTINCT b.emp_no, b.first_name, d.dept_name, LAST_VALUE(a.salary)
+-- OVER(
+--     PARTITION BY b.emp_no
+--     ORDER BY a.from_date
+--     RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
+-- ) AS "Current Salary"
+-- FROM salaries AS a
+-- INNER JOIN employees AS b USING(emp_no)
+-- INNER JOIN dept_emp AS c USING(emp_no)
+-- INNER JOIN departments AS d USING(dept_no)
+-- ORDER BY b.emp_no;
