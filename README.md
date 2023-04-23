@@ -2,7 +2,10 @@
 
 This is a all in one repository.
 
-1. [Python](https://github.com/rajdip20/code-recall/tree/main/Python): All the python code I've learned so far and also some [Exercises]().
+1. [Python](https://github.com/rajdip20/code-recall/tree/main/Python): All the python code I've learned so far and also some [Exercises](https://github.com/rajdip20/code-recall/tree/main/Python/Exercise).
+    * **Exercises:**
+        * [Easy Level](https://github.com/rajdip20/code-recall/blob/main/Python/Exercise/Easy-Level.ipynb)
+        * [Medium Level](https://github.com/rajdip20/code-recall/blob/main/Python/Exercise/Medium-Level.ipynb)
 
 2. [Machine Learning](https://github.com/rajdip20/code-recall/tree/main/Machine%20Learning): All the Machine Learning related study I've done so far. It contains - 
     1. [Numpy](https://github.com/rajdip20/code-recall/tree/main/Machine%20Learning/About%20Numpy)
@@ -17,7 +20,10 @@ This is a all in one repository.
     * **Deep Learning Projects**:
         * [Dog Breed Identification](https://github.com/rajdip20/code-recall/tree/main/Machine%20Learning/NN_DL_TL_and_TensorFlow/dog-breed-identification)
 
-3. [SQL](https://github.com/rajdip20/code-recall/tree/main/SQL): All SQL query I've learned so far and also some [Exercises]().
+3. [SQL](https://github.com/rajdip20/code-recall/tree/main/SQL): All SQL query I've learned so far and also some [Exercises](https://github.com/rajdip20/code-recall/tree/main/SQL/Exercise).
+    * **Exercises:**
+        * [Easy Level](https://github.com/rajdip20/code-recall/blob/main/SQL/Exercise/Easy-Level.ipynb)
+        * [Medium Level](https://github.com/rajdip20/code-recall/blob/main/SQL/Exercise/Medium-Level.ipynb)
 
 4. [Tableau](https://github.com/rajdip20/code-recall/tree/main/Tableau): It contains all my Data visualization study. After that some visualization Projects - 
     * [Park City Peaks Hotel Data Visualization](https://github.com/rajdip20/code-recall/tree/main/Tableau/PROJECTS/1.Park-City-Peaks-Hotel)
