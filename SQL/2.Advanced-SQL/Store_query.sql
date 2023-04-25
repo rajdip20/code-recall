@@ -61,3 +61,16 @@
 /* SHOW ME THE INVENTORY FOR EACH PRODUCT */
 -- SELECT a.prod_id, a.title, b.quan_in_stock FROM products AS a
 -- INNER JOIN inventory AS b ON a.prod_id = b.prod_id;
+
+/* CREATE A CASE STATEMENT THAT'S NAMED "PRICE CLASS" WHERE IF A PRODUCT IS OVER 20 DOLLARS YOU SHOW 'EXPENSIVE' IF IT'S BETWEEN 10 AND 20 YOU SHOW 'AVERAGE' AND IF IT'S LOWER THAN OR EQUAL TO 10 YOU SHOW 'CHEAP'. */
+-- SELECT price,
+--     (CASE
+--         WHEN price > 20 THEN 'Expensive'
+--         WHEN price BETWEEN 10 AND 20 THEN 'Average'
+--         WHEN price <= 10 THEN 'Cheap'
+--         END
+--     ) AS "Price Class"
+-- FROM products;
+
+/* SHOW NULL WHEN THE PRODUCT IS NOT ON SPECIAL (0) */
+-- SELECT prod_id, title, price, NULLIF(special, 0) AS "special" FROM products;
