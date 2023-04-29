@@ -229,3 +229,17 @@
 -- JOIN salaries as s USING(emp_no)
 -- WHERE s.salary > 80000
 -- ORDER BY s.salary;
+
+/* FILTER EMPLOYEES WHO HAVE EMP_NO 110183 AS A MANAGER */
+-- SELECT emp_no, first_name, last_name
+-- FROM employees
+-- WHERE emp_no IN (
+--     SELECT emp_no
+--     FROM dept_emp
+--     WHERE dept_no = (
+--         SELECT dept_no 
+--         FROM dept_manager
+--         WHERE emp_no = 110183
+--     )
+-- )
+-- ORDER BY emp_no
