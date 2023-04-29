@@ -74,3 +74,14 @@
 
 /* SHOW NULL WHEN THE PRODUCT IS NOT ON SPECIAL (0) */
 -- SELECT prod_id, title, price, NULLIF(special, 0) AS "special" FROM products;
+
+/* GET ALL ORDERS FROM CUSTOMERS WHO LIVE IN OHIO(OH), NEW YORK (NY) OR OREGON (OR) STATE ORDERED BY ORDERID */
+-- SELECT b.firstname, b.lastname, a.orderid 
+-- FROM orders AS a, (
+--     SELECT customerid, state, firstname, lastname
+--     FROM customers
+-- ) AS b
+-- WHERE  a.customerid = b.customerid AND 
+-- b.state IN ('NY', 'OH', 'OR')
+-- ORDER BY a.orderid;
+
