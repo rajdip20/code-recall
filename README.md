@@ -33,3 +33,5 @@ This is a all in one repository.
     * [Olist Logistics Dashboard](https://github.com/rajdip20/code-recall/tree/main/Tableau/PROJECTS/5.OLIST-Logistics-Dashboard)
     * [Adventure Works Data Visualization](https://github.com/rajdip20/code-recall/tree/main/Tableau/PROJECTS/6.AdventureWorks)
 
+5. [Excel](https://github.com/rajdip20/code-recall/tree/main/Excel): All Excel related learning I've done so far. Also doing small exercises after completing each section.
+
