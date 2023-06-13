@@ -1,0 +1,401 @@
+﻿Address,City,SquareFootage,Acreage,AskingPrice,SalePrice,SaleDate,Agent
+48023 Pearl Street,Louisville,"1,438",0.3,206519.46,165339.48,2/9/2020,Timothy Case
+73842 Hartford Road,Louisville,"1,116",0.8,204486.93,170153.57,10/10/2020,Timothy Case
+72026 Franklin Court,Richmond,"2,471",0.3,385942.45,367262.84,2/12/2020,Timothy Case
+12946 Cypress Court,Louisville,"2,614",0.6,335311.31,303926.17,2/23/2020,Trevon Lutz
+84565 Mill Street,Lexington,"9,355",8.2,1540675.28,1405095.86,5/12/2020,Tristan Blevins
+12033 Warren Street,St. Matthews,"2,752",0.1,404719.17,334581.34,4/17/2020,Judith Moreno
+96422 6th Street West,Frankfort,"2,030",0.1,284708.28,256265.93,11/15/2020,Deven Payne
+78793 Marshall Street,Covington,"2,923",0.7,367653.58,296071.43,2/28/2020,Tristan Blevins
+36776 Atlantic Avenue,Louisville,"5,175",0.6,615556.43,591980.62,8/3/2020,Judith Moreno
+79180 Sherwood Drive,Covington,"1,902",0.4,279883.34,226229.70,9/5/2020,Ivan Cordova
+93402 Catherine Street,Jeffersontown,"2,596",0.7,425316.15,392439.21,11/10/2020,Payton Evans
+19724 Lexington Court,Louisville,"1,678",0.5,234716.31,194908.42,9/11/2020,Deven Payne
+82866 Heather Court,Louisville,"2,433",0.4,368956.17,345933.30,12/21/2020,Tristan Blevins
+72481 Cardinal Drive,Covington,"1,256",0.7,199055.34,170948.73,9/20/2020,Judith Moreno
+12113 3rd Street East,Lexington,"2,128",0.5,265276.80,227076.94,8/29/2020,Trevon Lutz
+90548 7th Avenue,Jeffersontown,"9,528",0.6,1203374.67,968235.26,5/27/2020,Timothy Case
+26986 York Street,Florence,"2,299",0.5,345198.98,336776.13,1/21/2020,Payton Evans
+48929 Fawn Lane,St. Matthews,"1,175",0.7,213791.96,200600.99,4/18/2020,Trevon Lutz
+80164 Dogwood Lane,Jeffersontown,"2,750",0.9,377296.38,372693.36,4/28/2020,Tristan Blevins
+46152 Park Avenue,Georgetown,"1,382",0.3,203786.68,196552.25,12/6/2020,Priscilla Jackson
+26450 1st Street,Florence,"1,025",1,215401.22,207905.26,1/8/2020,Trevon Lutz
+85246 Roberts Road,Lexington,"1,931",0.5,294003.67,284889.56,9/8/2020,Hazel Richardson
+67824 Lake Avenue,Georgetown,"1,520",0.9,275084.16,234069.11,4/29/2020,Timothy Case
+76285 Delaware Avenue,Erlanger,"1,710",0.9,225630.90,220057.81,7/13/2020,Payton Evans
+77970 Street Road,Louisville,"2,112",0.1,306971.90,246651.92,3/13/2020,Payton Evans
+28310 Lafayette Street,Jeffersontown,"2,123",0.5,324349.09,288735.56,9/30/2020,Tristan Blevins
+36821 Somerset Drive,Lexington,"1,106",0.9,183841.33,176800.21,8/25/2020,Payton Evans
+26922 Broad Street,St. Matthews,"3,292",0.7,499798.63,434874.79,8/29/2020,Kaitlynn Oconnor
+75729 Glenwood Drive,St. Matthews,"2,717",0.8,348532.80,305210.17,3/28/2020,Timothy Case
+72093 Canal Street,Jeffersontown,"4,117",0.5,561036.81,480808.54,4/18/2020,Judith Moreno
+94496 Route 32,St. Matthews,"1,123",0.6,203234.51,168420.44,3/3/2020,Deven Payne
+67966 Main Street North,Louisville,"9,938",0.8,1044091.92,979567.04,5/8/2020,Eliana Baker
+29269 6th Street,Louisville,"1,238",0.5,200375.95,169498.01,8/1/2020,Deven Payne
+92734 Willow Drive,Florence,"2,881",0.3,348404.38,296317.92,7/27/2020,Priscilla Jackson
+10965 Oak Street,St. Matthews,"2,833",0.5,330672.56,290462.78,8/28/2020,Eliana Baker
+22428 Durham Court,Jeffersontown,"2,126",0.2,299930.87,269667.85,1/26/2020,Trevon Lutz
+77445 Cedar Court,Jeffersontown,"1,652",0.6,206772.66,179954.24,10/2/2020,Evelyn Everett
+16491 Primrose Lane,Florence,"1,778",0.2,256211.77,228925.22,2/23/2020,Tristan Blevins
+28939 Elizabeth Street,Florence,"2,622",6.8,722776.45,588340.03,3/26/2020,Hazel Richardson
+78335 Ashley Court,Florence,"2,275",0.6,380368.18,314488.41,4/15/2020,Deven Payne
+72588 Country Club Road,Jeffersontown,"9,922",0.8,1325395.38,1245739.12,12/23/2020,Payton Evans
+69911 Aspen Court,Georgetown,"3,195",0.9,510620.03,415236.21,2/27/2020,Timothy Case
+17484 Edgewood Road,Louisville,"6,790",0.6,863190.19,724130.25,11/18/2020,Timothy Case
+95923 Mulberry Court,Richmond,"1,513",0.1,183558.28,174215.16,1/5/2020,Eliana Baker
+87356 8th Street,St. Matthews,"2,891",0.9,430456.94,415347.90,4/9/2020,Hazel Richardson
+53395 Bridle Court,Erlanger,"2,922",0.6,363070.90,328506.55,9/8/2020,Trevon Lutz
+22138 Liberty Street,Lexington,"2,685",8.9,867125.43,784488.37,9/22/2020,Timothy Case
+89953 Garden Street,Richmond,"1,519",0.8,235031.03,220036.05,8/17/2020,Deven Payne
+99092 Highland Avenue,Erlanger,"1,643",0.3,190489.55,155877.60,3/20/2020,Deven Payne
+24680 Pleasant Street,Richmond,"1,781",1,271825.00,248828.60,8/16/2020,Payton Evans
+86859 Linden Avenue,Lexington,"1,429",0.9,226285.80,218297.91,10/22/2020,Priscilla Jackson
+98749 Jefferson Court,Florence,"1,541",10,781520.48,649677.97,5/21/2020,Timothy Case
+51378 East Street,St. Matthews,"2,724",0.4,352280.77,307752.48,7/22/2020,Judith Moreno
+76755 Church Street,Louisville,"2,013",0.9,280808.66,253149.01,10/21/2020,Tristan Blevins
+14614 Sycamore Street,Frankfort,"1,714",0.9,219111.10,190626.66,3/5/2020,Hazel Richardson
+34042 Canterbury Road,Covington,"1,407",1,222006.98,214969.36,8/13/2020,Ivan Cordova
+50203 Strawberry Lane,Lexington,"1,964",0.4,292900.14,263844.45,7/5/2020,Timothy Case
+64105 Clinton Street,Nicholasville,"7,485",6.2,1099477.49,1081116.21,10/16/2020,Judith Moreno
+18881 West Avenue,Lexington,"1,219",0.6,192930.30,158067.79,7/12/2020,Kaitlynn Oconnor
+90586 George Street,Jeffersontown,"1,158",0.5,212532.16,203010.72,1/1/2020,Tristan Blevins
+40086 2nd Street East,Covington,"2,896",0.3,331103.09,312031.56,8/3/2020,Judith Moreno
+31965 Church Street South,Florence,"2,426",0.8,400924.49,325510.59,10/19/2020,Trevon Lutz
+89007 Cooper Street,Louisville,"1,983",0.8,320257.20,274908.78,3/17/2020,Eliana Baker
+28679 Circle Drive,St. Matthews,"1,019",0.4,151545.61,144726.06,8/17/2020,Judith Moreno
+64661 5th Street North,Lexington,"2,475",0.6,366559.18,299222.26,11/10/2020,Ivan Cordova
+83221 Old York Road,Richmond,"1,409",0.1,204933.77,173251.01,10/28/2020,Deven Payne
+21673 Holly Court,Louisville,"2,693",0.1,331282.14,274831.66,9/1/2020,Ivan Cordova
+15096 Crescent Street,Jeffersontown,"2,234",0.2,235735.01,201482.71,10/18/2020,Trevon Lutz
+85888 Summit Street,Covington,"1,046",3,311965.71,286914.87,4/19/2020,Trevon Lutz
+75510 Hawthorne Avenue,Jeffersontown,"1,444",19.9,1355739.21,1151971.61,10/23/2020,Judith Moreno
+79626 North Street,Lexington,"2,944",0.4,426052.20,384810.35,2/21/2020,Hazel Richardson
+94469 Arch Street,Jeffersontown,"2,563",0.7,321969.92,263950.94,11/13/2020,Deven Payne
+76569 Parker Street,Lexington,"2,522",0.2,311145.12,255947.98,3/16/2020,Priscilla Jackson
+84136 Cherry Street,Jeffersontown,"3,770",0.3,498865.01,449876.47,5/23/2020,Tristan Blevins
+19023 John Street,Florence,"1,771",0.6,302289.44,265077.61,5/16/2020,Tristan Blevins
+46755 Ivy Court,Covington,"2,914",11.4,1300814.56,1179188.39,8/3/2020,Priscilla Jackson
+77891 Green Street,Louisville,"2,152",0.2,319177.44,309634.03,5/23/2020,Hazel Richardson
+26747 Oxford Road,Georgetown,"2,054",0.9,293308.88,268612.27,4/22/2020,Tristan Blevins
+99124 Euclid Avenue,Nicholasville,"2,186",0.3,240193.16,236878.49,1/31/2020,Kaitlynn Oconnor
+62995 York Road,Lexington,"2,569",0.8,358786.73,322441.64,8/1/2020,Judith Moreno
+93603 Cedar Street,Florence,"1,835",0.2,201286.42,179789.03,3/28/2020,Trevon Lutz
+97829 4th Street South,Georgetown,"2,260",0.5,369956.85,338510.52,11/28/2020,Judith Moreno
+28288 8th Avenue,Florence,"1,990",0.7,255502.98,230744.74,4/3/2020,Priscilla Jackson
+64260 Jones Street,Louisville,"1,871",0.3,289159.33,253563.82,7/9/2020,Payton Evans
+48895 Surrey Lane,Covington,"1,787",0.5,298126.79,252453.77,2/7/2020,Timothy Case
+23305 12th Street East,Nicholasville,"1,003",0.6,137252.50,134603.53,7/10/2020,Timothy Case
+21774 Rosewood Drive,Louisville,"2,639",0.6,357033.15,337289.22,4/18/2020,Timothy Case
+71135 Locust Lane,Covington,"1,615",0.5,200988.96,169011.62,1/10/2020,Timothy Case
+20192 Park Street,Lexington,"2,372",0.4,369378.35,356523.98,5/29/2020,Timothy Case
+66160 Ridge Road,Louisville,"1,621",27.9,2445852.30,2192217.42,11/27/2020,Timothy Case
+44906 Oxford Court,Florence,"2,754",0.3,345803.04,325919.37,1/31/2020,Deven Payne
+33007 School Street,Louisville,"1,463",1,260573.37,246762.98,7/7/2020,Tristan Blevins
+59434 Hillside Drive,Florence,"8,009",25.9,2989060.47,2541897.02,6/11/2020,Trevon Lutz
+93066 Union Street,Richmond,"2,756",0.5,334796.04,310623.77,10/16/2020,Deven Payne
+29827 Laurel Street,Georgetown,"2,139",0.2,235844.04,219429.30,6/22/2020,Eliana Baker
+70197 Grove Avenue,Georgetown,"2,800",0.5,454562.43,452744.18,5/8/2020,Deven Payne
+30641 Inverness Drive,Richmond,"9,016",0.3,970620.80,862784.83,4/17/2020,Payton Evans
+22048 White Street,Georgetown,"2,466",0.2,387808.05,347941.38,2/27/2020,Hazel Richardson
+17370 Fulton Street,Jeffersontown,"2,131",0.2,328867.33,303149.90,6/4/2020,Hazel Richardson
+24804 Fairview Road,Jeffersontown,"1,494",1,276696.01,225064.53,11/7/2020,Evelyn Everett
+19600 Victoria Court,Frankfort,"2,236",0.4,325551.40,293159.04,7/10/2020,Deven Payne
+85256 3rd Street North,Richmond,"1,738",0.3,238996.23,224393.56,4/3/2020,Trevon Lutz
+22461 Grant Street,Covington,"1,916",0.9,354041.97,345792.79,2/25/2020,Payton Evans
+98357 Hillcrest Avenue,Florence,"1,928",0.2,273503.40,235623.18,9/25/2020,Timothy Case
+49505 Howard Street,Erlanger,"4,825",0.4,528084.74,492227.78,6/10/2020,Ivan Cordova
+82652 Essex Court,Louisville,"1,768",15.5,1285035.17,1047046.66,6/25/2020,Deven Payne
+92380 Willow Street,Jeffersontown,"1,872",9.4,712019.04,706251.69,3/28/2020,Tristan Blevins
+67933 Route 11,Jeffersontown,"1,511",0.2,231620.44,224833.96,1/13/2020,Deven Payne
+67733 Route 41,Richmond,"1,326",0.9,265226.07,236369.47,3/9/2020,Timothy Case
+38163 Mechanic Street,Florence,"2,642",0.2,330022.43,302003.53,7/31/2020,Tristan Blevins
+64073 4th Street North,Erlanger,"1,989",0.4,284424.97,263661.95,9/27/2020,Tristan Blevins
+89108 5th Street West,Covington,"1,277",0.4,218169.88,188106.07,11/13/2020,Tristan Blevins
+43537 Hillside Avenue,Jeffersontown,"2,271",12.9,961740.81,930676.58,2/10/2020,Deven Payne
+49365 Hamilton Street,Louisville,"1,086",0.2,133570.94,133477.44,6/30/2020,Trevon Lutz
+64103 Overlook Circle,Covington,"1,927",0.2,303579.32,257678.13,9/19/2020,Eliana Baker
+78079 Buttonwood Drive,Louisville,"1,955",0.4,322662.41,266422.35,6/13/2020,Hazel Richardson
+29139 College Avenue,Georgetown,"1,487",0.2,180459.62,170750.89,12/11/2020,Tristan Blevins
+29206 Lawrence Street,St. Matthews,"2,947",0.8,346366.63,325099.72,4/12/2020,Tristan Blevins
+85034 Spruce Street,Lexington,"2,596",0.8,390106.95,374697.73,1/4/2020,Judith Moreno
+42536 Route 9,Louisville,"3,460",0.5,403313.79,381776.83,3/18/2020,Trevon Lutz
+83827 Cherry Lane,Georgetown,"1,683",0.8,255220.01,247767.59,3/25/2020,Priscilla Jackson
+18899 Queen Street,Lexington,"5,308",0.2,664379.43,556617.09,12/24/2020,Judith Moreno
+71353 Adams Avenue,St. Matthews,"9,721",0.3,1249495.64,1237000.69,3/21/2020,Trevon Lutz
+29646 Schoolhouse Lane,Covington,"1,649",0.8,220523.63,208350.72,1/14/2020,Deven Payne
+99689 Redwood Drive,Louisville,"1,269",0.9,257447.61,243699.91,1/26/2020,Trevon Lutz
+78409 Route 1,Lexington,"6,900",0.9,836117.80,752756.86,3/15/2020,Deven Payne
+71957 Park Drive,St. Matthews,"2,264",0.5,287864.80,279545.51,2/13/2020,Trevon Lutz
+30007 Franklin Street,Nicholasville,"1,376",0.4,199845.65,187894.88,7/6/2020,Judith Moreno
+40348 Riverside Drive,Louisville,"2,844",0.8,343556.27,330226.29,11/18/2020,Tristan Blevins
+63872 Heritage Drive,Louisville,"7,079",0.6,990964.86,939335.59,9/29/2020,Deven Payne
+76254 Lincoln Street,Louisville,"1,433",1,195669.17,160937.89,3/17/2020,Eliana Baker
+29762 Maple Street,Georgetown,"1,958",0.3,230562.64,204555.17,6/29/2020,Kaitlynn Oconnor
+88642 Highland Drive,Florence,"2,277",0.5,285692.42,242238.61,2/8/2020,Priscilla Jackson
+88654 5th Street East,Georgetown,"2,255",0.4,256827.59,219253.71,6/18/2020,Deven Payne
+90215 Walnut Avenue,Covington,"2,613",0.4,316535.81,310679.90,10/10/2020,Deven Payne
+73928 Chestnut Avenue,Jeffersontown,"2,131",0.5,325147.85,305086.23,11/2/2020,Kaitlynn Oconnor
+87430 Cedar Avenue,Frankfort,"3,740",0.7,486282.48,428706.63,1/27/2020,Evelyn Everett
+69954 Devon Court,Louisville,"2,499",0.3,322088.79,268622.05,6/30/2020,Priscilla Jackson
+34599 B Street,Lexington,"1,503",0.4,223771.80,200633.80,5/23/2020,Kaitlynn Oconnor
+33031 Laurel Drive,Georgetown,"2,560",0.9,440914.00,430464.34,12/14/2020,Deven Payne
+99991 Route 64,Louisville,"7,622",0.8,855906.95,720673.65,8/1/2020,Deven Payne
+51037 Church Road,Jeffersontown,"1,786",0.9,327877.41,267449.60,12/15/2020,Trevon Lutz
+30874 Market Street,St. Matthews,"1,621",0.2,231073.64,219519.96,9/20/2020,Priscilla Jackson
+51434 Route 100,St. Matthews,"2,770",0.1,321416.10,316723.42,7/5/2020,Payton Evans
+73661 Central Avenue,Lexington,"2,029",0.7,328416.69,299647.38,12/3/2020,Evelyn Everett
+83297 Front Street North,Louisville,"2,305",0.7,272389.87,260214.04,12/18/2020,Payton Evans
+34595 Oak Avenue,Erlanger,"5,712",0.9,717527.25,678637.28,11/9/2020,Tristan Blevins
+10754 Court Street,Georgetown,"2,183",0.4,256846.10,245365.07,3/8/2020,Judith Moreno
+12259 12th Street,St. Matthews,"1,683",5.1,565663.99,528613.00,8/5/2020,Judith Moreno
+20498 Sycamore Lane,Covington,"2,513",0.4,318506.22,309396.94,8/6/2020,Timothy Case
+52625 Canterbury Court,Jeffersontown,"4,624",0.9,521742.12,513915.99,6/25/2020,Priscilla Jackson
+77674 Locust Street,Erlanger,"1,178",0.2,133626.43,128909.42,9/17/2020,Timothy Case
+26427 Water Street,Florence,"2,048",0.1,284294.17,284038.31,12/7/2020,Trevon Lutz
+27674 Beechwood Drive,Covington,"2,804",0.8,462126.93,437218.29,8/25/2020,Deven Payne
+46566 Route 30,Lexington,"1,064",0.9,200696.43,182894.65,5/14/2020,Kaitlynn Oconnor
+12065 Adams Street,Florence,"9,171",0.7,1160020.44,1152248.30,2/27/2020,Judith Moreno
+65993 Columbia Street,Nicholasville,"1,233",0.5,225934.78,190146.71,2/16/2020,Hazel Richardson
+40457 Henry Street,Jeffersontown,"1,942",0.7,276947.83,237316.59,8/11/2020,Hazel Richardson
+75822 Chestnut Street,Georgetown,"2,639",0.6,297598.49,263672.26,12/15/2020,Tristan Blevins
+49788 Brandywine Drive,St. Matthews,"6,296",0.6,816419.73,782619.96,12/25/2020,Deven Payne
+98735 Hill Street,St. Matthews,"2,079",0.2,235810.49,233475.97,5/6/2020,Trevon Lutz
+16366 Garfield Avenue,Florence,"2,334",0.9,317098.22,265220.95,1/23/2020,Priscilla Jackson
+93967 Jefferson Street,Florence,"1,660",0.4,216014.04,187392.18,11/22/2020,Tristan Blevins
+69992 Ridge Avenue,St. Matthews,"2,328",0.8,337766.76,303145.67,12/15/2020,Tristan Blevins
+34763 6th Avenue,Covington,"1,956",0.9,357292.86,344823.34,4/6/2020,Timothy Case
+87720 Route 10,Florence,"3,877",0.7,446526.08,357220.86,7/4/2020,Deven Payne
+91349 Creek Road,Florence,"2,638",0.5,361516.63,337548.08,3/31/2020,Eliana Baker
+22871 Poplar Street,Lexington,"4,611",1,685154.16,682139.48,11/29/2020,Trevon Lutz
+69620 Lake Street,Georgetown,"2,086",0.4,268983.41,254861.78,10/20/2020,Eliana Baker
+11434 Smith Street,Louisville,"1,212",0.6,164957.85,155588.24,8/2/2020,Timothy Case
+96290 Sunset Avenue,Lexington,"2,496",0.3,288328.74,286771.76,8/6/2020,Deven Payne
+37491 Briarwood Drive,Lexington,"1,284",0.8,194517.68,165476.19,1/17/2020,Tristan Blevins
+65038 2nd Street,Nicholasville,"2,716",0.3,373451.73,317620.70,9/4/2020,Eliana Baker
+96841 Route 29,Louisville,"2,913",0.6,445832.39,359831.32,3/8/2020,Timothy Case
+84223 Mulberry Street,Richmond,"1,525",0.6,257333.83,235563.39,4/29/2020,Timothy Case
+38495 Sycamore Drive,Richmond,"2,909",1,401169.66,398120.77,10/9/2020,Deven Payne
+85442 State Street East,Florence,"1,712",0.8,217485.99,174815.24,6/29/2020,Priscilla Jackson
+34853 Route 6,Louisville,"2,136",0.4,297511.89,249344.72,3/3/2020,Timothy Case
+38120 Valley Drive,Louisville,"2,009",0.9,353061.01,314153.69,3/29/2020,Trevon Lutz
+14445 Broad Street West,Lexington,"9,167",22.1,2618824.54,2585303.59,12/14/2020,Payton Evans
+52013 Maple Avenue,St. Matthews,"1,217",0.4,180929.83,178469.18,10/2/2020,Eliana Baker
+46871 Spruce Avenue,Erlanger,"2,361",0.8,401164.83,338101.72,3/19/2020,Tristan Blevins
+45209 Cambridge Road,Florence,"7,851",0.2,906432.35,734844.70,5/1/2020,Deven Payne
+75090 Devonshire Drive,Florence,"2,948",6,904036.58,855309.01,2/26/2020,Timothy Case
+18501 Warren Avenue,Nicholasville,"2,785",0.9,394648.79,388097.62,11/27/2020,Hazel Richardson
+15535 Jefferson Avenue,Frankfort,"1,393",0.2,165255.89,151737.96,11/3/2020,Hazel Richardson
+91835 Cottage Street,Louisville,"6,030",0.4,863119.27,753330.50,4/30/2020,Tristan Blevins
+50946 Deerfield Drive,Louisville,"1,388",0.1,208464.21,176006.33,8/16/2020,Payton Evans
+83814 Front Street South,Jeffersontown,"2,348",0.8,393766.13,343600.33,2/7/2020,Timothy Case
+38028 Woodland Avenue,Richmond,"1,002",0.2,154313.25,139607.20,10/18/2020,Trevon Lutz
+86483 Evergreen Lane,Jeffersontown,"2,309",0.2,286662.81,239564.11,9/27/2020,Payton Evans
+45617 Race Street,Lexington,"7,724",27.4,3230046.18,3194515.68,8/27/2020,Tristan Blevins
+77202 Lafayette Avenue,Louisville,"1,531",23.5,1507731.75,1295895.44,10/5/2020,Hazel Richardson
+21069 Main Street West,Louisville,"2,939",0.3,347064.22,281017.90,2/19/2020,Timothy Case
+72391 Route 17,Jeffersontown,"2,722",0.7,358673.26,347877.20,3/31/2020,Deven Payne
+63645 Berkshire Drive,Louisville,"2,118",0.8,273888.01,222314.90,1/21/2020,Deven Payne
+28413 Valley View Road,Louisville,"1,828",0.9,271121.27,218876.20,3/1/2020,Deven Payne
+77010 Ridge Street,Florence,"1,221",0.6,177350.90,149187.58,6/15/2020,Timothy Case
+78515 Glenwood Avenue,Erlanger,"2,354",0.3,368914.87,316160.04,3/26/2020,Hazel Richardson
+41913 Linda Lane,Florence,"1,562",0.4,189424.22,158055.57,11/23/2020,Timothy Case
+42442 Durham Road,St. Matthews,"1,381",0.2,204283.50,188962.24,2/24/2020,Trevon Lutz
+26118 Eagle Street,Richmond,"1,835",17.5,1345722.06,1133367.12,9/1/2020,Tristan Blevins
+71830 Homestead Drive,Richmond,"1,362",0.7,207895.91,196815.06,11/9/2020,Timothy Case
+42503 11th Street,Lexington,"1,097",0.8,187603.29,182969.49,1/2/2020,Trevon Lutz
+78096 Penn Street,Jeffersontown,"2,960",0.8,504637.10,488488.71,9/26/2020,Hazel Richardson
+56743 Arlington Avenue,Lexington,"2,424",0.6,295711.41,280925.84,2/13/2020,Trevon Lutz
+57398 Route 202,Lexington,"1,032",0.3,145258.49,123426.14,10/15/2020,Deven Payne
+50460 Rose Street,Frankfort,"4,747",0.2,697431.53,672602.97,5/23/2020,Deven Payne
+13760 Wood Street,Jeffersontown,"1,553",0.3,208349.12,181680.43,12/22/2020,Deven Payne
+92633 Railroad Street,Lexington,"2,821",3.9,666643.94,541914.86,8/30/2020,Deven Payne
+38451 Windsor Drive,Florence,"2,401",0.8,343779.36,322190.02,4/5/2020,Tristan Blevins
+91190 Vine Street,Jeffersontown,"1,917",0.2,254652.95,225011.34,12/20/2020,Kaitlynn Oconnor
+47320 Forest Drive,Louisville,"2,830",0.5,427073.74,380608.11,4/7/2020,Tristan Blevins
+88417 Andover Court,Florence,"2,065",0.3,322956.23,301705.71,4/11/2020,Ivan Cordova
+24511 Manor Drive,Louisville,"2,604",0.3,322607.67,321994.72,3/24/2020,Ivan Cordova
+90614 Clark Street,Louisville,"2,646",19,1280646.23,1038091.83,2/24/2020,Trevon Lutz
+62697 7th Street,Covington,"1,698",0.5,291499.71,253342.40,5/31/2020,Hazel Richardson
+28874 Myrtle Street,St. Matthews,"2,368",0.8,407446.84,373954.71,1/11/2020,Judith Moreno
+82229 Morris Street,Jeffersontown,"1,609",0.4,196072.83,190229.86,11/10/2020,Priscilla Jackson
+61870 Oak Lane,Lexington,"1,876",0.7,248723.15,208504.62,5/11/2020,Tristan Blevins
+15249 Summer Street,Jeffersontown,"1,788",27.2,1838121.75,1791433.46,6/18/2020,Timothy Case
+96470 Elmwood Avenue,Lexington,"9,134",0.8,1032935.66,842668.91,10/22/2020,Hazel Richardson
+83206 Willow Lane,St. Matthews,"2,668",21.1,1429285.07,1174443.54,7/18/2020,Hazel Richardson
+50759 Linden Street,Jeffersontown,"1,538",0.7,265749.90,259690.80,5/23/2020,Trevon Lutz
+89277 River Road,Jeffersontown,"2,846",0.6,369592.69,334296.58,10/12/2020,Payton Evans
+48725 Lakeview Drive,Louisville,"1,286",0.9,250257.17,208314.07,7/14/2020,Deven Payne
+35167 Forest Avenue,Erlanger,"1,552",0.9,218128.57,177185.83,2/17/2020,Deven Payne
+36468 Hilltop Road,Richmond,"1,855",0.9,318844.47,306568.96,2/17/2020,Ivan Cordova
+84735 5th Avenue,St. Matthews,"4,287",0.7,608535.60,555836.42,12/17/2020,Timothy Case
+54284 Myrtle Avenue,Florence,"6,239",0.8,765035.99,737724.20,8/10/2020,Hazel Richardson
+77166 Main Street South,Jeffersontown,"1,572",0.2,186690.82,185682.69,8/24/2020,Hazel Richardson
+81619 Charles Street,Jeffersontown,"2,966",0.2,314982.56,314699.07,8/20/2020,Payton Evans
+60868 Grant Avenue,St. Matthews,"1,604",0.4,204987.35,169381.05,7/27/2020,Kaitlynn Oconnor
+67748 Washington Avenue,Covington,"9,653",5.7,1368661.29,1169794.80,8/12/2020,Tristan Blevins
+77022 Beech Street,Georgetown,"1,658",0.8,241664.27,193645.58,3/24/2020,Deven Payne
+11375 Maple Lane,Jeffersontown,"1,246",0.6,221666.82,219782.65,6/4/2020,Tristan Blevins
+41837 Olive Street,Frankfort,"1,736",0.5,230875.26,228705.03,1/6/2020,Trevon Lutz
+96378 Jackson Street,Florence,"2,264",0.4,349952.04,290320.21,2/23/2020,Priscilla Jackson
+80535 5th Street South,St. Matthews,"1,663",0.7,238038.37,221732.74,12/19/2020,Deven Payne
+74082 Chapel Street,Jeffersontown,"2,758",0.2,304143.88,270779.29,10/16/2020,Deven Payne
+59765 Spring Street,Nicholasville,"8,957",0.5,1167454.23,966885.59,9/13/2020,Kaitlynn Oconnor
+48520 Tanglewood Drive,Richmond,"1,234",16.9,1396759.97,1152466.65,5/29/2020,Kaitlynn Oconnor
+96397 Jackson Avenue,Florence,"6,803",0.6,956023.72,866061.88,7/16/2020,Deven Payne
+26460 Ivy Lane,Lexington,"2,164",0.2,310579.23,272471.16,8/24/2020,Kaitlynn Oconnor
+47713 River Street,Richmond,"7,961",0.2,1182173.56,1012295.22,1/27/2020,Hazel Richardson
+81793 Willow Avenue,Jeffersontown,"2,146",0.5,299388.67,258402.36,7/27/2020,Trevon Lutz
+18453 Colonial Avenue,Covington,"2,509",0.6,385719.02,314283.86,9/4/2020,Evelyn Everett
+30057 Bank Street,St. Matthews,"2,721",1,386925.51,346259.64,8/4/2020,Kaitlynn Oconnor
+55528 Evergreen Drive,Louisville,"2,374",0.5,378778.45,311621.03,11/24/2020,Trevon Lutz
+99817 Cobblestone Court,Jeffersontown,"1,196",0.5,183226.68,154716.61,6/17/2020,Deven Payne
+40510 Fairway Drive,Florence,"2,709",0.7,436800.61,415528.42,2/15/2020,Trevon Lutz
+76096 Winding Way,Frankfort,"1,699",0.2,261720.40,220499.43,7/21/2020,Trevon Lutz
+84349 Amherst Street,Louisville,"1,881",0.7,315824.45,266240.01,3/2/2020,Trevon Lutz
+79903 Lantern Lane,Frankfort,"9,450",0.5,1085739.42,991497.24,4/5/2020,Deven Payne
+72502 Summit Avenue,Georgetown,"1,596",0.8,277448.91,254892.31,11/2/2020,Deven Payne
+37563 Harrison Street,Louisville,"2,240",0.4,353427.73,337488.14,6/25/2020,Trevon Lutz
+86554 Route 20,St. Matthews,"1,490",0.9,212858.37,181248.90,8/27/2020,Tristan Blevins
+58479 Pennsylvania Avenue,Louisville,"1,574",0.5,215919.60,199984.73,3/15/2020,Hazel Richardson
+84545 Monroe Drive,Lexington,"1,412",0.2,174295.28,146408.03,12/29/2020,Hazel Richardson
+46188 Virginia Street,Jeffersontown,"1,319",0.6,183615.38,170450.15,6/12/2020,Trevon Lutz
+11238 Hickory Lane,Lexington,"7,238",0.9,787635.63,639638.90,3/31/2020,Timothy Case
+68798 Williams Street,Lexington,"1,559",0.1,166559.19,141042.32,9/11/2020,Priscilla Jackson
+95621 Academy Street,Louisville,"2,859",0.8,470944.88,468778.53,5/26/2020,Trevon Lutz
+98970 Fawn Court,Louisville,"2,925",0.5,383238.08,355338.34,12/28/2020,Payton Evans
+32686 4th Street West,Lexington,"1,335",0.2,208911.60,195353.24,1/9/2020,Deven Payne
+60495 Grand Avenue,Covington,"1,600",0.1,194438.46,163522.74,6/10/2020,Deven Payne
+93538 Cambridge Court,Frankfort,"2,166",1,294043.82,257082.51,2/20/2020,Tristan Blevins
+68514 Bay Street,Georgetown,"1,490",0.2,227709.95,227345.61,10/13/2020,Priscilla Jackson
+27567 Heather Lane,Covington,"1,974",0.7,256888.16,240884.03,5/2/2020,Trevon Lutz
+39464 Lexington Drive,Louisville,"2,680",0.3,421413.66,376322.40,9/22/2020,Judith Moreno
+99105 Route 27,Frankfort,"2,007",0.8,330435.46,296400.61,2/10/2020,Deven Payne
+86191 Cleveland Street,Richmond,"1,896",0.5,236275.25,189847.16,3/18/2020,Trevon Lutz
+30730 William Street,Nicholasville,"2,848",0.1,346881.77,300330.23,2/26/2020,Tristan Blevins
+72914 Briarwood Court,St. Matthews,"1,908",0.2,252421.73,216779.78,9/18/2020,Timothy Case
+93618 Clay Street,Florence,"2,861",0.5,464162.83,374904.32,4/25/2020,Hazel Richardson
+14323 Pheasant Run,Florence,"2,476",16.8,1535212.56,1293416.58,10/9/2020,Tristan Blevins
+86036 Ann Street,Richmond,"2,445",0.7,396833.87,388778.15,11/2/2020,Evelyn Everett
+42342 6th Street North,Lexington,"1,085",24.8,1875249.64,1771173.29,3/12/2020,Timothy Case
+37409 Hanover Court,Louisville,"1,941",0.8,250041.62,245490.86,2/3/2020,Eliana Baker
+74042 9th Street,Louisville,"2,094",0.9,299612.83,276872.22,10/11/2020,Ivan Cordova
+85412 Grove Street,St. Matthews,"1,089",0.5,154678.44,142984.75,4/4/2020,Deven Payne
+89902 8th Street West,Covington,"7,935",0.6,1085728.58,935029.45,12/21/2020,Judith Moreno
+69548 Franklin Avenue,Lexington,"1,480",0.7,249956.80,221511.72,2/11/2020,Priscilla Jackson
+44691 Mill Road,Nicholasville,"2,789",0.5,412311.85,371369.28,11/11/2020,Trevon Lutz
+36496 Walnut Street,Lexington,"9,984",0.3,1321273.80,1213457.86,7/26/2020,Deven Payne
+95212 Roosevelt Avenue,Erlanger,"2,550",0.7,417329.38,360739.52,9/25/2020,Tristan Blevins
+64916 Route 7,Georgetown,"1,188",0.5,173610.60,162673.13,8/8/2020,Judith Moreno
+67018 Woodland Drive,Jeffersontown,"2,904",0.6,383684.19,374514.13,2/27/2020,Deven Payne
+87778 Center Street,Georgetown,"9,013",0.3,1235576.06,1082488.18,5/17/2020,Priscilla Jackson
+18935 10th Street,Frankfort,"2,132",0.1,237683.81,193569.69,5/20/2020,Tristan Blevins
+94579 Brown Street,Louisville,"2,959",0.1,446237.46,430262.16,6/4/2020,Deven Payne
+22472 4th Avenue,Louisville,"2,846",0.7,450558.99,441637.93,11/2/2020,Kaitlynn Oconnor
+61147 Maiden Lane,Lexington,"1,043",26.5,1969044.40,1831605.10,12/29/2020,Evelyn Everett
+38244 Orchard Street,Erlanger,"2,667",0.3,409577.51,332781.73,9/20/2020,Hazel Richardson
+57048 Brook Lane,Lexington,"2,293",0.7,285252.99,254930.59,11/21/2020,Judith Moreno
+86311 Valley View Drive,Louisville,"1,258",0.9,251088.04,230398.39,6/7/2020,Kaitlynn Oconnor
+79954 Country Lane,Richmond,"2,527",0.7,407652.01,348909.35,12/7/2020,Hazel Richardson
+10388 Fieldstone Drive,Jeffersontown,"2,386",0.9,380467.91,361748.89,4/25/2020,Trevon Lutz
+20747 Creekside Drive,Richmond,"3,352",0.4,445253.97,406873.07,1/8/2020,Kaitlynn Oconnor
+45852 3rd Street West,Frankfort,"2,495",0.8,380111.59,364641.05,5/30/2020,Kaitlynn Oconnor
+98890 Madison Court,Erlanger,"1,510",0.8,268832.60,261520.35,6/20/2020,Trevon Lutz
+72112 High Street,Florence,"2,783",0.9,455360.67,368705.54,2/25/2020,Deven Payne
+50745 Windsor Court,Louisville,"2,009",1,306691.59,297797.53,10/29/2020,Hazel Richardson
+18140 4th Street,Florence,"1,921",0.5,233543.20,210329.00,4/12/2020,Deven Payne
+78067 8th Street South,Louisville,"2,543",0.3,396236.05,335493.06,8/5/2020,Hazel Richardson
+70678 Prospect Avenue,Florence,"1,589",0.6,210536.46,190767.09,2/5/2020,Trevon Lutz
+61048 1st Avenue,Frankfort,"2,276",0.6,317699.23,300607.01,5/2/2020,Deven Payne
+60274 Holly Drive,Louisville,"1,646",0.8,279485.55,235857.86,6/14/2020,Deven Payne
+53487 Hillcrest Drive,Louisville,"1,966",3.3,513529.29,509215.65,2/26/2020,Payton Evans
+11363 Bridle Lane,Richmond,"1,256",0.6,210575.58,200973.33,3/21/2020,Trevon Lutz
+48856 Church Street North,Jeffersontown,"2,529",0.5,337461.18,310329.30,7/27/2020,Trevon Lutz
+44179 Cemetery Road,Louisville,"2,291",0.6,276062.58,229932.52,6/26/2020,Priscilla Jackson
+95929 Sunset Drive,Jeffersontown,"2,964",0.6,471335.10,469826.83,7/11/2020,Payton Evans
+16985 14th Street,Georgetown,"1,130",0.7,222456.08,195271.95,6/19/2020,Timothy Case
+17064 Hickory Street,Florence,"1,102",0.9,233735.17,221954.92,3/25/2020,Timothy Case
+88959 Wall Street,Jeffersontown,"2,824",0.4,445828.00,414397.13,8/10/2020,Tristan Blevins
+70374 Hamilton Road,Lexington,"5,834",0.5,644451.40,574141.75,7/22/2020,Kaitlynn Oconnor
+71634 East Avenue,Georgetown,"1,716",0.2,223363.52,201429.22,10/30/2020,Trevon Lutz
+60510 Augusta Drive,Jeffersontown,"1,467",0.5,173046.67,162317.77,3/14/2020,Tristan Blevins
+48756 Railroad Avenue,Lexington,"4,153",0.7,479161.36,402783.04,3/28/2020,Trevon Lutz
+87219 Devon Road,Erlanger,"1,654",1,324757.83,260845.49,6/14/2020,Hazel Richardson
+48837 Division Street,Louisville,"1,108",8.6,843225.68,794740.20,1/3/2020,Timothy Case
+21063 Dogwood Drive,Lexington,"1,613",0.6,254904.55,210704.10,10/3/2020,Timothy Case
+60537 Main Street,Louisville,"1,639",0.6,251176.45,217543.92,7/19/2020,Hazel Richardson
+98549 Woodland Road,Lexington,"1,907",0.7,253741.65,219740.27,3/2/2020,Deven Payne
+30160 Canterbury Drive,Louisville,"1,935",0.5,295969.76,252166.24,10/27/2020,Kaitlynn Oconnor
+57274 Pin Oak Drive,Erlanger,"2,966",0.5,402191.17,329917.42,5/1/2020,Ivan Cordova
+81355 Pine Street,Louisville,"2,459",0.5,316996.84,264819.16,6/15/2020,Deven Payne
+81288 College Street,St. Matthews,"5,097",24.9,2399134.99,2115317.32,10/27/2020,Priscilla Jackson
+13393 Magnolia Avenue,Frankfort,"1,083",0.2,128644.63,121144.65,2/7/2020,Deven Payne
+47896 Harrison Avenue,Florence,"9,213",0.6,1190175.44,1078179.93,8/21/2020,Judith Moreno
+27411 2nd Street West,Florence,"2,830",25.7,2220934.00,1916221.86,4/4/2020,Eliana Baker
+90631 Broadway,Florence,"1,938",0.3,229691.88,202611.21,3/28/2020,Timothy Case
+96977 Elm Avenue,Louisville,"4,549",1,581397.92,544595.43,12/5/2020,Tristan Blevins
+99971 Brookside Drive,Louisville,"1,955",0.3,239657.17,216458.35,1/24/2020,Judith Moreno
+32965 Bayberry Drive,Louisville,"2,781",0.6,415711.19,345040.29,10/27/2020,Timothy Case
+63095 Valley Road,Louisville,"5,479",0.6,829267.99,734068.02,4/24/2020,Priscilla Jackson
+77708 Lincoln Avenue,St. Matthews,"1,979",0.4,261695.48,228303.14,6/26/2020,Timothy Case
+65201 2nd Avenue,St. Matthews,"2,623",0.2,304732.00,270602.02,6/7/2020,Deven Payne
+40065 Laurel Lane,Florence,"1,362",0.3,199406.74,159744.74,5/4/2020,Deven Payne
+78133 Cedar Lane,Louisville,"2,336",0.7,362868.32,331625.36,2/21/2020,Timothy Case
+68711 Belmont Avenue,Jeffersontown,"1,145",0.6,215921.19,200310.09,2/26/2020,Kaitlynn Oconnor
+27487 3rd Street,Covington,"4,662",0.3,611098.85,593926.97,11/9/2020,Judith Moreno
+45412 Hawthorne Lane,Covington,"2,735",0.6,412825.32,390367.62,3/10/2020,Tristan Blevins
+44166 Colonial Drive,Louisville,"5,104",0.9,762879.46,629528.13,1/25/2020,Tristan Blevins
+40596 Madison Avenue,Louisville,"2,338",0.5,367515.85,347559.74,7/13/2020,Deven Payne
+68699 Depot Street,Georgetown,"2,790",0.7,475351.03,402099.43,7/30/2020,Tristan Blevins
+77727 Sherman Street,Covington,"2,703",0.6,302235.93,269382.89,12/9/2020,Priscilla Jackson
+31802 Route 70,Covington,"1,409",0.5,221981.31,204355.99,3/19/2020,Payton Evans
+66136 Cleveland Avenue,Jeffersontown,"6,535",12.5,1522708.79,1241769.02,7/9/2020,Eliana Baker
+77039 Route 44,Covington,"7,833",0.5,1093511.16,901381.25,3/23/2020,Ivan Cordova
+42833 Aspen Drive,Louisville,"1,674",0.2,224093.66,223645.47,7/19/2020,Deven Payne
+82329 Cambridge Drive,Louisville,"3,874",0.7,459459.88,444022.03,7/12/2020,Deven Payne
+71415 James Street,Nicholasville,"1,906",0.1,252924.95,229478.80,9/8/2020,Deven Payne
+36627 13th Street,Richmond,"1,938",0.8,316200.39,303141.31,3/24/2020,Tristan Blevins
+77663 Carriage Drive,Georgetown,"1,753",0.9,298600.33,291792.24,1/30/2020,Tristan Blevins
+17831 West Street,Louisville,"1,129",0.4,191586.74,172064.05,12/20/2020,Judith Moreno
+56905 State Street,Florence,"2,049",0.2,259958.26,230037.06,1/27/2020,Trevon Lutz
+10932 Main Street East,St. Matthews,"2,918",0.6,482972.92,423905.33,11/8/2020,Judith Moreno
+76874 Magnolia Drive,Florence,"1,455",0.1,190822.81,162123.06,2/18/2020,Evelyn Everett
+70273 Magnolia Court,Jeffersontown,"2,044",0.4,331100.56,270774.04,12/22/2020,Hazel Richardson
+22974 Cross Street,Florence,"2,319",0.4,276184.06,228514.69,2/25/2020,Kaitlynn Oconnor
+20622 Prospect Street,Covington,"8,357",0.5,1070461.78,923915.56,10/6/2020,Tristan Blevins
+73699 Meadow Lane,Louisville,"2,893",0.5,457568.29,387377.31,7/22/2020,Deven Payne
+65607 Orchard Avenue,Erlanger,"1,901",0.7,312357.39,283589.28,7/31/2020,Priscilla Jackson
+38994 Front Street,Erlanger,"2,993",14.5,1575643.55,1534361.69,8/20/2020,Ivan Cordova
+23798 Hudson Street,Louisville,"1,953",11.7,1193743.69,1049897.58,6/13/2020,Ivan Cordova
+82870 Orchard Lane,Louisville,"2,372",0.7,322417.97,266800.87,12/18/2020,Deven Payne
+49231 Washington Street,Louisville,"1,573",0.3,177166.47,156012.79,3/21/2020,Kaitlynn Oconnor
+62021 Meadow Street,Florence,"5,529",0.3,683211.96,640716.17,10/7/2020,Kaitlynn Oconnor
+40640 Edgewood Drive,Jeffersontown,"1,619",0.4,188631.05,179652.21,7/26/2020,Hazel Richardson
+11135 Eagle Road,Lexington,"2,388",0.2,322249.74,258734.32,9/12/2020,Hazel Richardson
+67042 Route 5,Covington,"2,418",0.8,361016.73,338128.26,7/10/2020,Tristan Blevins
+56373 5th Street,Frankfort,"1,392",0.9,220041.11,214760.12,8/5/2020,Tristan Blevins
+68236 Buckingham Drive,Frankfort,"1,691",0.8,223519.67,188650.60,9/19/2020,Deven Payne
+71383 Mulberry Lane,Lexington,"4,592",0.7,689832.96,584288.52,2/11/2020,Tristan Blevins
+75857 New Street,Jeffersontown,"2,816",0.4,359337.43,352078.82,10/9/2020,Evelyn Everett
+12316 Park Place,Richmond,"1,363",0.4,230070.07,226112.87,10/24/2020,Hazel Richardson
+84100 Westminster Drive,Florence,"2,889",0.9,341691.44,303011.97,11/21/2020,Trevon Lutz
+46162 Orange Street,Lexington,"1,075",1,193402.18,191294.09,4/18/2020,Tristan Blevins
+64573 Lilac Lane,Florence,"2,826",0.5,373438.92,318954.18,11/29/2020,Trevon Lutz
+13420 King Street,Frankfort,"2,113",0.8,348037.19,282606.20,10/9/2020,Trevon Lutz
+95579 Monroe Street,Louisville,"1,113",0.4,153698.32,133041.26,4/5/2020,Tristan Blevins
+27133 Fairview Avenue,Richmond,"2,059",0.7,324923.97,297987.78,12/11/2020,Trevon Lutz
+70597 2nd Street North,Louisville,"2,587",0.4,300352.25,270347.06,2/6/2020,Trevon Lutz
+31092 Route 2,Covington,"8,773",0.6,1146214.18,1029185.71,8/21/2020,Judith Moreno
+73719 South Street,Jeffersontown,"1,253",0.7,221948.16,208542.49,6/23/2020,Eliana Baker
+48703 Shady Lane,Jeffersontown,"7,878",0.4,884419.06,799337.95,12/25/2020,Timothy Case
+79630 Bridge Street,Jeffersontown,"1,668",0.3,269879.61,239680.08,6/23/2020,Tristan Blevins
+84425 Country Club Drive,Florence,"2,436",0.1,303935.99,272387.43,10/12/2020,Priscilla Jackson
+78060 Route 4,St. Matthews,"2,987",0.4,333753.23,327311.79,4/15/2020,Tristan Blevins
+15600 Madison Street,Covington,"2,176",0.3,267665.03,220047.42,10/17/2020,Tristan Blevins
+21280 Forest Street,Richmond,"1,433",0.4,208085.07,190293.80,4/17/2020,Kaitlynn Oconnor
+45769 Taylor Street,Florence,"1,913",0.4,312056.49,258788.45,5/23/2020,Tristan Blevins
+49182 Virginia Avenue,Florence,"2,400",0.4,355440.64,349575.87,2/4/2020,Timothy Case
+71486 Sheffield Drive,Louisville,"1,556",0.8,270485.51,245032.82,3/15/2020,Judith Moreno
+34307 9th Street West,Florence,"9,427",0.3,1198255.47,1065608.59,7/4/2020,Priscilla Jackson
+42947 3rd Avenue,Lexington,"1,276",0.4,189481.19,185123.12,11/27/2020,Timothy Case
+13946 North Avenue,Louisville,"2,657",0.3,322727.15,303783.06,10/13/2020,Timothy Case
+89626 Elm Street,Frankfort,"1,418",0.4,213495.75,204742.43,2/7/2020,Kaitlynn Oconnor
